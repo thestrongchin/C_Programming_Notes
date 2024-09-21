@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/riverchen/Desktop/Test Code/main'
+relocations:     []
+...
